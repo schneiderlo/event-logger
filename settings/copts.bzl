@@ -1,4 +1,7 @@
-"""Define flags used during compilation."""
+"""Define flags used during compilation.
+
+List of warning taken from https://github.com/cpp-best-practices/cpp_starter_project
+"""
 
 MSVC_WARNINGS = [
     "/W4",  # Baseline reasonable warnings
